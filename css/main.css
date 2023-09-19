@@ -7,6 +7,8 @@
 .body {
     font-family: 'Roboto Slab' serif;
 }
+
+/* style first section (header-logo, header-link, main dan image) */
 .first {
     color: white;
     background-color: #1f2937;
@@ -91,6 +93,8 @@ button {
     border-radius: 5px;
 }
 
+/* style second section (some random information)*/
+
 h2 {
     font-size: 36px;
     font-weight: bolder;
@@ -131,6 +135,7 @@ h2 {
     color: grey;
 }
 
+/* style third section (quote) */
 .third {
     background-color: #e5e7eb;
     font-family: Arial, Helvetica, sans-serif;
@@ -158,6 +163,7 @@ h3 {
     margin-right: 200px;
 }
 
+/* style fourth section (calling action) */
 .last {
     height: 300px;
     display: flex;
@@ -204,6 +210,7 @@ h4 {
     border-radius: 5px;
 }
 
+/* style fifth section (copyright) */
 .footer {
     display: flex;
     align-items: center;
