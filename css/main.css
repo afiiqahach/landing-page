@@ -19,7 +19,6 @@
 }
 
 .header {
-    /* color: white; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -30,14 +29,12 @@
 
 ul {
     display: flex;
-    /* flex-direction: row; */
     list-style: none;
     gap: 40px;
 }
 
 .header-logo {
     display: flex;
-    /* width: 50px; */
     justify-content: center;
     align-items: center;
     color: #f9faf8;
@@ -56,7 +53,6 @@ ul {
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
-    /* max-width: 444px; */
 }
 
 .title2 {
@@ -80,10 +76,6 @@ ul {
     background-color: grey;
     color: #f9faf8;
     padding: 100px 160px;
-    /* margin-bottom: 10px; */
-    /* max-height: 250px; */ 
-    /* margin-left: 40px;
-    margin-right: 100px; */
 }
 
 button {
@@ -95,7 +87,6 @@ button {
 }
 
 /* style second section (some random information)*/
-
 h2 {
     font-size: 36px;
     font-weight: bolder;
@@ -127,8 +118,6 @@ h2 {
 .second {
     font-family: Arial, Helvetica, sans-serif;
 }
-
-
 
 /* style third section (quote) */
 .third {
